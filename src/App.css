@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section1 {
+  background-image: url(./images/rectangle67.png);
+  background-repeat: no-repeat;
+  background-color: #d7d7d7;
+  max-width: 250vw;
+  min-height: 102.2vh;
+  background-position: right center;
+  background-size: 60% 100%;
+  background-color: #D7D7D7;
+}
+.itbtext {
+  display: flex;
+  max-width: 192vw;
+  min-height: 31.3vh;
+  background-image: url(./images/ITB.png);
+  background-repeat: no-repeat;
+  background-position: 100% 1%;
+  background-size: 27%;
+  z-index: -99;
+  background-color: hsl(0, 0%, 11%);
+}

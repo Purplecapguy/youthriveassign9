@@ -1,0 +1,24 @@
+.para1 {
+    margin: 10rem 10rem;
+}.para1 .hi {
+    font-family: Raleway;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 4rem;
+    color: black;
+}
+.para1 .name {
+    font-family: Raleway;
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 3rem;
+    padding-top: 1.5rem;
+    color: black;
+}
+.para1 .front-end {
+    font-family: Raleway;
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1.5rem;
+    color: black;
+}
